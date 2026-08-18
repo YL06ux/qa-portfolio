@@ -17,3 +17,4 @@
 - [ ] Verificar se o link “Esqueci minha senha” está visível e clicável.
 - [ ] Verificar o layout (alinhamento, fontes, cores e botões).
 - [ ] Verificar o comportamento em dispositivos móveis (responsividade).
+
